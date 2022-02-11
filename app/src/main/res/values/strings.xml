@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Musical App Project</string>
+    <string name="home_tab_ranking">Classement</string>
+    <string name="home_tab_research">Recherche</string>
+    <string name="home_tab_favorites">Favoris</string>
+
+    <string name="error_get_infos">Une erreur s\'est produite lors de la récuperation des informations</string>
+    <string name="retry">Réessayer</string>
+
+    <string name="albums">Albums (%1$d)</string>
+    <string name="prefered_tracks">Titres les plus apprecié</string>
+    <string name="tracks">Titres</string>
+
+    <string name="artists">Artistes</string>
+    <string name="albums_no_number">Albums</string>
+    <string name="favorites">Favoris</string>
+    <string name="favorites_subtitle">Mes favoris et albums</string>
+    <string name="research">Rechercher</string>
+    <string name="ranking">Classement</string>
+
+    <string name="tracks_subtitle">%1$d chansons</string>
+    <string name="votes">%1$d votes</string>
+    <string name="song_words">Paroles</string>
+
+    <string name="no_description">No description</string>
+
+</resources>

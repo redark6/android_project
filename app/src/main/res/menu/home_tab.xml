@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/homeRankingFragment"
+        android:title="@string/home_tab_ranking"
+        android:icon="@drawable/ic_accueil_classements" />
+    <item android:id="@+id/homeResearchFragment"
+        android:title="@string/home_tab_research"
+        android:icon="@drawable/ic_accueil_recherche" />
+    <item android:id="@+id/homeFavoritesFragment"
+        android:title="@string/home_tab_favorites"
+        android:icon="@drawable/ic_accueil_favoris"
+        />
+</menu>
